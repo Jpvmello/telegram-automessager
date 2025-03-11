@@ -172,3 +172,4 @@ cython_debug/
 
 # Custom
 message_files/relacionamento.txt
+autoinit.bat
